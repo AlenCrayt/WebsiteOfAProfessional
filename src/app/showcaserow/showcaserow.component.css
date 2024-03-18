@@ -1,0 +1,11 @@
+#main {
+    background-image: url(https://www.quickfix-computers.co.uk/wp-content/uploads/2020/12/iStock-1144570833-scaled.jpg);
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 350px;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    margin-top: 50px;
+}
