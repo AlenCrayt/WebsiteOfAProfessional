@@ -1,5 +1,13 @@
 #main {
     padding-top: 10px;
     padding-bottom: 150px;
-    background-color: rgb(185, 213, 255);
+    background-color: rgb(112, 145, 169);
+}
+
+h5 {
+    padding-bottom: 35px;
+}
+
+a{
+    color: rgba(0, 0, 0, 0.7);
 }
